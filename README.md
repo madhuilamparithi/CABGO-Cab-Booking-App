@@ -20,15 +20,14 @@ CABGO is a cab booking application that helps users book a cab by entering their
 Agile Scrum with two development increments.
 
 ## Technologies
- -DRAW IO
+ - Draw io
  - Git and GitHub
 
 ## Project Modules
-1. User Interface
-2. Cab Selection
-3. Booking Details
-4. Fare Estimation
-5. Booking Confirmation
+1. Login page
+2. Book a cab
+3. Ride details
+4. Payment details
 
 ## Future Enhancements
 - Online payment
