@@ -22,12 +22,23 @@ Agile Scrum with two development increments.
 ## Technologies
  - Draw io
  - Git and GitHub
+ - 
 
 ## Project Modules
 1. Login page
 2. Book a cab
 3. Ride details
 4. Payment details
+   
+##Sprint 1 deliverables
+- Login page prototype
+- Cab booking page prototype
+- Initial requirements and wireframes
+
+##Sprint 2 deliverables
+- Ride details page prototype
+- Payment and history page prototype
+- Test cases and test results
 
 ## Future Enhancements
 - Online payment
